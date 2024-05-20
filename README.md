@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋,llamo Alvaro Romero</h1>
+<h1 align="center">Hola 👋, me llamo Alvaro Romero</h1>
 <h3 align="center">Frontend apasionado</h3>
 
 - 💬 Pregúntame sobre **HTML|CSS|JavaScript|Wordpress|Angular**
